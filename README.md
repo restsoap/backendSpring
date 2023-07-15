@@ -150,3 +150,8 @@ POST http://localhost:9000/api/especialidades
 # Video y pruebas Unitarias
 
 [video y pruebas](https://drive.google.com/drive/folders/1rbU0pGnbTdbVSz4TvZS61-MhUckZQde7)
+
+
+Participantes del grupo
+
+[Andres Rolon Reyes](https://github.com/SAITO990), [Miguel Beltran Saavedra](https://github.com/migueldj94), [Brayan Yesid Cañon Rodriguez](https://github.com/restsoap)
